@@ -1,7 +1,7 @@
 # Mario HTML
 View demo here
 
-https://www.neilb.net/MarioHTML/
+https://github.com/ainaicha/game.git
 
 To Build the project first install TypeScript and the dependencies
 
